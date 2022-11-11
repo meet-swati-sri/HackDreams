@@ -9,4 +9,6 @@ Solution - 1) We will make the UI more user friendly and information precise so 
            3) We will also try to integrate the website with other schooling platforms so that the students can easily approach the courses which suits them.
            4) We will add a feedback and review system for the students to share their feedback for improvement.
            5) We will try to add a bulletin board which will show the active scholarship programs.
+Ques - What will be your final demo ?
+Solution - A working website containing these features.
            
